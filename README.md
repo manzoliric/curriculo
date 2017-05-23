@@ -53,3 +53,7 @@ Uninove - Analise e Desenvolvimento de Sistemas<br>
 * Curso Bootstrap: criação de uma single-page responsiva (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/bootstrap-criacao-single-page-responsiva))
 
 * Curso Lógica de programação I: Os primeiros programas com Javascript e HTML (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/logica-programacao-javascript-html))
+
+## Me ajude!
+Viu algum erro? sentiu falta de algo? me mande um e-mail para me avisar.
+manzolict@gmail.com
