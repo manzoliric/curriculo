@@ -54,6 +54,8 @@ Uninove - Analise e Desenvolvimento de Sistemas<br>
 
 * Curso Lógica de programação I: Os primeiros programas com Javascript e HTML (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/logica-programacao-javascript-html))
 
+* Curso Photoshop para web I: Crie suas páginas da web (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/photoshop-web-1))
+
 ## Me ajude!
 Viu algum erro? sentiu falta de algo? me mande um e-mail para me avisar.
 manzolict@gmail.com
