@@ -12,7 +12,7 @@ Meu nome é Richard Manzoli, sou Desenvolvedor Web apaixonado por Bootstrap e co
 
 *  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 
-*  [Skype](https://www.linkedin.com/in/richard-manzoli-67388a139/)
+* [Codepen](https://codepen.io/manzolict)
 
 ## Conhecimentos
 
@@ -42,6 +42,10 @@ Meu nome é Richard Manzoli, sou Desenvolvedor Web apaixonado por Bootstrap e co
 ## Projetos
 
 [Meu primeiro Website desenvolvido com HTML5, CSS3 e Bootstrap.](https://richmanzoli.github.io/richardmanzoli/)
+
+[Finn Adventure Time (Pure CSS)](https://codepen.io/manzolict/pen/BZaQeP)
+
+[Germany Flag (Animation CSS)](https://codepen.io/manzolict/pen/qjBqzq)
 
 ## Formação
 Uninove - Analise e Desenvolvimento de Sistemas<br>
