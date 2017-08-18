@@ -3,7 +3,7 @@ Desenvolvedor web / Front-end e Back-end.
 
 Local: São Paulo/SP<br>
 Telefone: (11) 2524 - 4542 / (11) 99252 - 0027<br> 
-E-mail: manzolict@gmail.com
+E-mail: ricodemanz@gmail.com
 
 Meu nome é Richard Manzoli, sou Desenvolvedor Web apaixonado por Bootstrap e com grande interesse em Javascript e PHP, fã boy da Apple e tenho hardwares voltado para games como hobby.
 
@@ -16,8 +16,13 @@ Meu nome é Richard Manzoli, sou Desenvolvedor Web apaixonado por Bootstrap e co
 
 
 ## Experência Profissional
-* 06/2017 - **Rafael Web** - (Emprego Atual)<br>
-Atuo como Desenvolvedor Web, desenvolvendo sites com Wordpress.
+* 06/2017 - **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
+(Desenvolvedor Web / Emprego Atual)<br>
+Desenvolvendo Sites e Lojas Virtuais com Wordpress.<br>
+Conversão de PSD para HTML e CSS.<br>
+Criação de E-mail Marketing (Do zero e MailChimp).<br>
+Migração de Sites entre Servidores Windows e Linux<br>
+Configuração de Servidores VPS.
 
 ### Front-end
 * HTML.
@@ -44,17 +49,26 @@ Atuo como Desenvolvedor Web, desenvolvendo sites com Wordpress.
 ### CMS
 * Wordpress.
 
-### Design
-* Photoshop (Basico).
-* Marvel App.
+### Sistemas Operacionais
+* Linux
+* Windows
+* MacOS
 
-## Projetos
+### Design
+* Photoshop.
+
+## Projetos 
 
 [Meu primeiro Website desenvolvido com HTML5, CSS3 e Bootstrap.](https://richmanzoli.github.io/richardmanzoli/)
 
-[Finn Adventure Time (Pure CSS)](https://codepen.io/manzolict/pen/BZaQeP)
 
-[Germany Flag (Animation CSS)](https://codepen.io/manzolict/pen/qjBqzq)
+## Projetos pela [Rafael Web](http://www.rafaelweb.com.br/2017/)
+
+[Site Nucleo Evolve.](http://nucleoevolve.com.br/)
+
+[Loja Virtual Amar Assim.](http://amarassim.com.br/)
+
+[Site PAM CNH.](http://pamcnh.com.br/)
 
 ## Formação
 Uninove - Analise e Desenvolvimento de Sistemas<br>
@@ -73,4 +87,4 @@ Uninove - Analise e Desenvolvimento de Sistemas<br>
 
 ## Me ajude!
 Viu algum erro? sentiu falta de algo? me mande um e-mail para me avisar.
-manzolict@gmail.com
+ricodemanz@gmail.com
