@@ -2,7 +2,7 @@
 Desenvolvedor web / Front-end e Back-end.
 
 Local: São Paulo/SP<br>
-Telefone: (11) 2524 - 4542 / (11) 99252 - 0027<br> 
+Telefone: (11) 2524 - 4542 / (11) 94942 - 1600<br> 
 E-mail: ricodemanz@gmail.com
 
 Meu nome é Richard Manzoli, sou Desenvolvedor Web apaixonado por Bootstrap e com grande interesse em Javascript e PHP, fã boy da Apple e tenho hardwares voltado para games como hobby.
@@ -63,12 +63,6 @@ Configuração de Servidores VPS.
 
 
 ## Projetos pela [Rafael Web](http://www.rafaelweb.com.br/2017/)
-
-[Site Nucleo Evolve.](http://nucleoevolve.com.br/)
-
-[Loja Virtual Amar Assim.](http://amarassim.com.br/)
-
-[Site PAM CNH.](http://pamcnh.com.br/)
 
 ## Formação
 Uninove - Analise e Desenvolvimento de Sistemas<br>
