@@ -5,7 +5,7 @@ Adress: São Paulo / SP<br>
 Phone: (11) 94942 - 1600<br> 
 Email: ricodemanz@gmail.com
 
-Richard Manzoli, Web Developer, focused on front-end, working with tools like HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, PHP, Wordpress, Laravel, MySQL, Git and VPS Servers.
+Richard Manzoli, Web Developer, focused on front-end, working with tools like HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, Gulp, PHP, Wordpress, Laravel, MySQL, Git and VPS Servers.
 
 ## Social Medias
 
@@ -49,7 +49,7 @@ Converting Layouts (PSD) to HTML, CSS and JavaScript.<br>
 [Banda Marilia Gabriela](http://bandamariliagabriela.com.br)
 
 ## Laravel
-[MLuiz](mluiz.com)
+[MLuiz](http://mluiz.com)
 
 ## Help!
 Some error? send an email to ricodemanz@gmail.com
