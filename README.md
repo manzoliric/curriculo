@@ -16,8 +16,7 @@ Richard Manzoli, Web Developer, focused on front-end, working with tools like HT
 (Web Developer / Present)<br>
 Building Websites and Ecommerce with Wordpress.<br>
 Building Websites and Web Applications with Laravel.<br>
-Converting Layouts (PSD) to HTML and CSS.<br>
-
+Converting Layouts (PSD) to HTML, CSS and JavaScript.<br>
 
 ### Front-end
 * HTML.
