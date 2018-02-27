@@ -1,84 +1,53 @@
-# Richard Manzoli
-Desenvolvedor web / Front-end e Back-end.
+# Profile
+Web Developer / Front-end.
 
-Local: São Paulo/SP<br>
-Telefone: (11) 2524 - 4542 / (11) 94942 - 1600<br> 
-E-mail: ricodemanz@gmail.com
+Adress: São Paulo / SP<br>
+Phone: (11) 94942 - 1600<br> 
+Email: ricodemanz@gmail.com
 
-Meu nome é Richard Manzoli, sou Desenvolvedor Web apaixonado por Bootstrap e com grande interesse em Javascript e PHP, fã boy da Apple e tenho hardwares voltado para games como hobby.
+Richard Manzoli, Web Developer, focused on front-end, working with tools like HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, PHP, Wordpress, Laravel, MySQL, Git and VPS Servers.
 
-## Redes Sociais
-*  [Facebook](https://www.facebook.com/people/Richard-Manzoli/100015737850661)
+## Social Medias
 
 *  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 
-* [Codepen](https://codepen.io/manzolict)
-
-
-## Experência Profissional
+## Work Experience
 * 06/2017 - **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
-(Desenvolvedor Web / Emprego Atual)<br>
-Desenvolvendo Sites e Lojas Virtuais com Wordpress.<br>
-Conversão de PSD para HTML e CSS.<br>
-Criação de E-mail Marketing (Do zero e MailChimp).<br>
-Migração de Sites entre Servidores Windows e Linux<br>
-Configuração de Servidores VPS.
+(Web Developer / Present)<br>
+Building Websites and Ecommerce with Wordpress.<br>
+Building Websites and Web Applications with Laravel.<br>
+Converting Layouts (PSD) to HTML and CSS.<br>
+
 
 ### Front-end
 * HTML.
-* CSS (Design Responsivo).
+* CSS (Sass, Bootstrap, Responsive Design).
 
-### Banco de Dados
+### DataBases
 * MySQL.
 
-### Gerais
-* Lógica de Programação.
-* Inglês suficiente para ler e entender.
-
-### Linguagens de Programação
+### Programming languages
 * JavaScript.
 * PHP.
 
-### Sistemas de controle de versão
+### Version control
 * Git.
-* Bitbucket.
 
 ### Frameworks
-* Bootstrap (Sistema de Grid, Classes, Mobile-first, Redesign).
+* Laravel.
 
 ### CMS
 * Wordpress.
 
-### Sistemas Operacionais
-* Linux
-* Windows
-* MacOS
+## Projects created for [Rafael Web](http://www.rafaelweb.com.br/2017/)
 
-### Design
-* Photoshop.
+## Wordpress
+[Echoes Digital Media](http://echoesdigitalmedia.com/)
+[Nucleo Evolve](http://nucleoevolve.com.br/)
+[Banda Marilia Gabriela](http://bandamariliagabriela.com.br)
 
-## Projetos 
+## Laravel
+[MLuiz](mluiz.com)
 
-[Meu primeiro Website desenvolvido com HTML5, CSS3 e Bootstrap.](https://richmanzoli.github.io/richardmanzoli/)
-
-
-## Projetos pela [Rafael Web](http://www.rafaelweb.com.br/2017/)
-
-## Formação
-Uninove - Analise e Desenvolvimento de Sistemas<br>
-1 º Semestre - Finalização em 2019
-
-## Cursos Completos
-* Curso HTML5 e CSS3: Suas primeiras páginas da Web (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/introducao-html-css))
-
-* Curso Bootstrap: criação de uma single-page responsiva (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/bootstrap-criacao-single-page-responsiva))
-
-* Curso Lógica de programação: Os primeiros programas com Javascript e HTML (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/logica-programacao-javascript-html))
-
-* Curso Photoshop para web: Crie suas páginas da web (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/photoshop-web-1))
-
-* Curso Wordpress: Hospedagem, Administração e Widgets (Alura / [Certificado](https://cursos.alura.com.br/certificate/manzoliriichard/wordpress-hospedagem-administracao-widgets))
-
-## Me ajude!
-Viu algum erro? sentiu falta de algo? me mande um e-mail para me avisar.
-ricodemanz@gmail.com
+## Help!
+Some error? send an email to ricodemanz@gmail.com
