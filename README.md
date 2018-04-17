@@ -20,7 +20,7 @@ Converting Layouts (PSD) to HTML, CSS and JavaScript.<br>
 
 ### Front-end
 * HTML.
-* CSS (Sass, Bootstrap, Responsive Design).
+* CSS (FlexBox, Sass, Bootstrap, Responsive Design).
 
 ### DataBases
 * MySQL.
