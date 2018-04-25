@@ -1,55 +1,59 @@
 # Profile
-Web Developer / Front-end.
+Desenvolvedor Web / Front-end.
 
-Adress: São Paulo / SP<br>
-Phone: (11) 94942 - 1600<br> 
+Cidade: São Paulo / SP<br>
+Celular: (11) 94942 - 1600<br> 
 Email: manzolirch@gmail.com
 
-Richard Manzoli, Web Developer, focused on front-end, working with tools like HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, Gulp, PHP, Wordpress, Laravel, MySQL, Git and VPS Servers.
+Richard Manzoli, Desenvolvedor Web, focado em Front-end, trabalhando com ferramentas como HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, Gulp, PHP, Wordpress, Laravel, MySQL, Git e VPS Servers.
 
-## Social Medias
+## Redes Sociais
 
 *  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 
-## Work Experience
-* 06/2017 - **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
-(Web Developer / Present)<br>
-Building Websites and Ecommerce with Wordpress.<br>
-Building Websites and Web Applications with Laravel.<br>
-Converting Layouts (PSD) to HTML, CSS and JavaScript.<br>
+## Experiencia
+* 06/2017 - Atual **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
+(Programador Junior)<br>
+Criando Sites e Ecommerces com Wordpress e Laravel..<br>
+Aplicaçes Web com Laravel.<br>
+Convertendo PSD para HTML, CSS e JavaScript.<br>
 
 ### Front-end
 * HTML.
-* CSS (FlexBox, Sass, Bootstrap, Responsive Design).
+* CSS (Responsive Design, FlexBox, Sass, Bootstrap 3 e 4).
 
-### DataBases
+### Banco de Dados
 * MySQL.
 
-### Programming languages
+### Linguagens de Programação
 * JavaScript.
 * PHP.
 
 ### Task Runner
 * Gulp.
 
+### Bundlers
+* Webpack.
+
 ### Version control
 * Git.
 
 ### Frameworks
-* Laravel.
+* React (Iniciante, estudando)
+* Laravel (Trabalhando nas Views)
 
 ### CMS
 * Wordpress.
 
-## Projects created for [Rafael Web](http://www.rafaelweb.com.br/2017/)
+## Projetos criado pela [Rafael Web](http://www.rafaelweb.com.br/2017/)
 
 ## Wordpress
-[Echoes Digital Media](http://echoesdigitalmedia.com/)
-[Nucleo Evolve](http://nucleoevolve.com.br/)
-[Banda Marilia Gabriela](http://bandamariliagabriela.com.br)
+[Echoes Digital Media](http://echoesdigitalmedia.com/) - Site
+[Nucleo Evolve](http://nucleoevolve.com.br/) - Site
+[Banda Marilia Gabriela](http://bandamariliagabriela.com.br) - Ecommerce
 
 ## Laravel
-[MLuiz](http://mluiz.com)
+[MLuiz](http://mluiz.com) - Blog
 
-## Help!
-Some error? send an email to manzolirch@gmail.com
+## Erro?
+Achou algum erro? mande um e-mail para manzolirch@gmail.com
