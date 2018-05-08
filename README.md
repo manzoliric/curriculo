@@ -5,14 +5,14 @@ Cidade: São Paulo / SP<br>
 Celular: (11) 94942 - 1600<br> 
 Email: manzolirch@gmail.com
 
-Richard Manzoli, Desenvolvedor Web, focado em Front-end, trabalhando com ferramentas como HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, Gulp, PHP, Wordpress, Laravel, MySQL, Git e VPS Servers.
+Richard Manzoli, Desenvolvedor Web, focado em Front-end, trabalhando com ferramentas como HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, React, Styled Components, WebPack, Gulp, PHP, Wordpress, Laravel, MySQL, Git e VPS Servers.
 
 ## Redes Sociais
 
 *  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 
 ## Experiencia
-* 06/2017 - Atual **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
+* 06/2017 - 05/2018 **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
 (Programador Junior)<br>
 Criando Sites e Ecommerces com Wordpress e Laravel..<br>
 Aplicaçes Web com Laravel.<br>
@@ -20,7 +20,7 @@ Convertendo PSD para HTML, CSS e JavaScript.<br>
 
 ### Front-end
 * HTML.
-* CSS (Responsive Design, FlexBox, Sass, Bootstrap 3 e 4).
+* CSS (Responsivo, FlexBox, Sass, Bootstrap 3 e 4, Styled Components).
 
 ### Banco de Dados
 * MySQL.
@@ -38,8 +38,10 @@ Convertendo PSD para HTML, CSS e JavaScript.<br>
 ### Version control
 * Git.
 
+### Bibliotecas
+* React (Iniciante)
+
 ### Frameworks
-* React (Iniciante, estudando)
 * Laravel (Trabalhando nas Views)
 
 ### CMS
