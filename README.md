@@ -1,11 +1,11 @@
-# Sobre
+# Richard Manzoli
 Desenvolvedor Web / Front-end.
 
 Cidade: São Paulo / SP<br>
 Celular: (11) 94942 - 1600<br> 
 Email: manzolirch@gmail.com
 
-Richard Manzoli, Desenvolvedor Web, focado em Front-end, trabalhando com ferramentas como HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, React, Styled Components, WebPack, Gulp, PHP, Wordpress, Laravel, MySQL, Git e VPS Servers.
+Desenvolvedor Web, focado em Front-end, trabalhando com ferramentas como HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, React, Styled Components, WebPack, Gulp, PHP, Wordpress, Laravel, MySQL, Git e VPS Servers.
 
 ## Redes Sociais
 
