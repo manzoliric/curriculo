@@ -1,61 +1,58 @@
 # Richard Manzoli
+
 Desenvolvedor Web / Front-end.
 
 Cidade: São Paulo / SP<br>
-Celular: (11) 94942 - 1600<br> 
+Celular: (11) 93206 - 8995<br>
 Email: manzolirch@gmail.com
 
-Desenvolvedor Web, focado em Front-end, trabalhando com ferramentas como HTML, CSS, Sass, Bootstrap, JavaScript, JQuery, React, Styled Components, WebPack, Gulp, PHP, Wordpress, Laravel, MySQL, Git e VPS Servers.
+Desenvolvedor Front-end.
 
 ## Redes Sociais
 
-*  [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
+- [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
 
 ## Experiencia
-* 06/2017 - 05/2018 **[Rafael Web](http://www.rafaelweb.com.br/2017/)** - 
-(Programador Junior)<br>
-Criando Sites e Ecommerces com Wordpress e Laravel..<br>
-Aplicaçes Web com Laravel.<br>
-Convertendo PSD para HTML, CSS e JavaScript.<br>
+
+- 06/2017 - 05/2018 **[Rafael Web](http://www.rafaelweb.com.br/2017/)** -
+  (Programador Junior)<br>
+  Criando Sites e Ecommerces com Wordpress e Laravel..<br>
+  Aplicaçes Web com Laravel.<br>
+  Convertendo PSD para HTML, CSS e JavaScript.<br>
+
+- 05/2017 - 12/2018 **[BG7](http://www.bg7.com.br/pt/)** -
+  (Desenvolvedor Front-end Junior)<br>
+  Criando aplicaçōes com ReactJS, trabalhando tanto com layouts como integrações com API.<br>
+  Landing Pages, usando ferramentas como HTML, CSS, SASS, JavaScript.<br>
+
+* 12/2018 - Atual **[Future Brand](https://www.futurebrand.com/br)** -
+  (Desenvolvedor Front-end Junior)<br>
+  Criando aplicaçōes com ReactJS, NextJS, trabalhando tanto com layouts como integrações com API.<br>
+  Criacao de Landing Pages e temas com Wordpress e ACF.
 
 ### Front-end
-* HTML.
-* CSS (Responsivo, FlexBox, Sass, Bootstrap 3 e 4, Styled Components).
 
-### Banco de Dados
-* MySQL.
-
-### Linguagens de Programação
-* JavaScript.
-* PHP.
+- HTML.
+- CSS, Metodologias - (BEM), Pré processadores - (SASS), CSS no JS - (Styled Components), Mobile First, Responsivo, Flexbox.
+- JavaScript - (ES6, Vanilla JS, Jquery)
+- Frameworks Front-end - (ReactJS, NextJS)
 
 ### Task Runner
-* Gulp.
+
+- Gulp.
 
 ### Bundlers
-* Webpack.
+
+- Webpack.
 
 ### Version control
-* Git.
 
-### Bibliotecas
-* React (Iniciante)
-
-### Frameworks
-* Laravel (Trabalhando nas Views)
+- Git (Git Flow).
 
 ### CMS
-* Wordpress.
 
-## Projetos criado pela [Rafael Web](http://www.rafaelweb.com.br/2017/)
-
-## Wordpress
-[Echoes Digital Media](http://echoesdigitalmedia.com/) - Site
-[Nucleo Evolve](http://nucleoevolve.com.br/) - Site
-[Banda Marilia Gabriela](http://bandamariliagabriela.com.br) - Ecommerce
-
-## Laravel
-[MLuiz](http://mluiz.com) - Blog
+- Wordpress com ACF.
 
 ## Erro?
+
 Achou algum erro? mande um e-mail para manzolirch@gmail.com
