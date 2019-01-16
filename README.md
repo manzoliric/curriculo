@@ -36,6 +36,7 @@ Desenvolvedor Front-end.
 - CSS, Metodologias - (BEM), Pré processadores - (SASS), CSS no JS - (Styled Components), Mobile First, Responsivo, Flexbox.
 - JavaScript - (ES6, Vanilla JS, Jquery)
 - Frameworks Front-end - (ReactJS, NextJS)
+- Ferramentas - VSCode, EsLint, & Stylelint.
 
 ### Task Runner
 
@@ -44,6 +45,12 @@ Desenvolvedor Front-end.
 ### Bundlers
 
 - Webpack.
+
+### Bundlers
+
+- Sketch.
+- Illustrator.
+- Photoshop.
 
 ### Version control
 
