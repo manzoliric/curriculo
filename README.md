@@ -32,7 +32,7 @@ Desenvolvedor Front-end.
   Criação de Landing Pages e temas para Wordpress com ACF.<br>
   
   
-  * 06/2019 - Atual **[Petlove](https://www.petlove.com/br)** -
+* 06/2019 - Atual **[Petlove](https://www.petlove.com/br)** -
   (Desenvolvedor Front-end)<br>
 
 ### Front-end
