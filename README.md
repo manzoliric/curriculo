@@ -4,7 +4,7 @@ Cidade: São Paulo / SP<br>
 Celular: (11) 93210-8668<br>
 Email: manzoldev@gmail.com
 
-Desenvolvedor Front-end.
+Trabalho como Front-end a 4 anos.
 
 ## Redes Sociais
 
@@ -26,7 +26,7 @@ Desenvolvedor Front-end.
 * 12/2018 - 05/2019 **[Future Brand](https://www.futurebrand.com/br)** -
   (Desenvolvedor Front-end Junior)<br>
   Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
-  Criação de Landing Pages e temas para Wordpress com ACF.<br>**[Future Brand](https://www.futurebrand.com/br)** -
+  Criação de Landing Pages e temas para Wordpress com ACF.<br>
   
 * 06/2019 - Atual **[Petlove](https://www.petlove.com/br)** -
   (Desenvolvedor Front-end)<br>
