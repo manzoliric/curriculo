@@ -2,7 +2,7 @@
 
 Cidade: São Paulo / SP<br>
 Celular: (11) 93210-8668<br>
-Email: manzoldevh@gmail.com
+Email: manzoldev@gmail.com
 
 Desenvolvedor Front-end.
 
