@@ -1,16 +1,14 @@
 # Richard Manzoli
 
-Desenvolvedor Web / Front-end.
-
 Cidade: São Paulo / SP<br>
-Celular: (11) 93206 - 8995<br>
-Email: manzolirch@gmail.com
+Celular: (11) 93210-8668<br>
+Email: manzoldevh@gmail.com
 
 Desenvolvedor Front-end.
 
 ## Redes Sociais
 
-- [Linkedin](https://www.linkedin.com/in/richard-manzoli-67388a139/)
+- [Linkedin](https://www.linkedin.com/in/richard-manzoli)
 
 ## Experiencia
 
@@ -25,42 +23,27 @@ Desenvolvedor Front-end.
   Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
   Criação de Landing Pages e temas para Wordpress com ACF.<br>
 
-* 12/2018 - Atual **[Future Brand](https://www.futurebrand.com/br)** -
+* 12/2018 - 05/2019 **[Future Brand](https://www.futurebrand.com/br)** -
+  (Desenvolvedor Front-end Junior)<br>
+  Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
+  Criação de Landing Pages e temas para Wordpress com ACF.<br>**[Future Brand](https://www.futurebrand.com/br)** -
   (Desenvolvedor Front-end Junior)<br>
   Criando aplicaçōes com ReactJS, VanillaJS, trabalhando tanto com criação de layouts como integrações com API Rest.<br>
   Criação de Landing Pages e temas para Wordpress com ACF.<br>
+  
+  
+  * 06/2019 - Atual **[Petlove](https://www.petlove.com/br)** -
+  (Desenvolvedor Front-end)<br>
 
 ### Front-end
 
 - HTML.
-- CSS, Metodologias - (BEM), Pré processadores - (SASS), Mobile First, Media Queries, Flexbox.
-- JavaScript - (ES6, Vanilla JS, Jquery)
-- Frameworks e Bibliotecas Front-end - (ReactJS, Redux)
-- Ferramentas - VSCode, EsLint, & Stylelint.
-
-### Task Runner
-
-- Gulp.
-
-### Bundlers
-
-- Webpack.
-
-### Design
-
-- Sketch.
-- Illustrator.
-- Photoshop.
-- Adobe XD.
-
-### Version control
-
-- Git (Git Flow).
-
-### CMS
-
-- Wordpress com ACF.
+- CSS, SASS.
+- JavaScript
+- NodeJS
+- VueJS, Reacct
+- Webpack
 
 ## Erro?
 
-Achou algum erro? mande um e-mail para manzolirch@gmail.com
+Achou algum erro? mande um e-mail para manzolidev@gmail.com
