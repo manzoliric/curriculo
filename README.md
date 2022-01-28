@@ -4,7 +4,11 @@ Cidade: São Paulo / SP<br>
 Celular: (11) 93210-8668<br>
 Email: manzoldev@gmail.com
 
-Trabalho como Front-end a 4 anos.
+Me chamo Richard Manzoli, tenho 27 anos e trabalho como desenvolvedor front-end a quase 5 anos.
+
+Tecnologias principais e que mais tenho domínio são Javascript, Vue.js, Nuxt, CSS, Sass, Node.js, Jest, Playwright, Puppeteer, Storybook, Gulp, Webpack, entre outras...
+
+Apaixonado pela entrega final para o cliente, sempre trabalhando focado em entregar soluções simples e que façam sentido para o usuário.
 
 ## Redes Sociais
 
@@ -30,15 +34,13 @@ Trabalho como Front-end a 4 anos.
   
 * 06/2019 - Atual **[Petlove](https://www.petlove.com/br)** -
   (Desenvolvedor Front-end)<br>
-
-### Front-end
-
-- HTML.
-- CSS, SASS.
-- JavaScript
-- NodeJS
-- VueJS, Reacct
-- Webpack
+  Trabalho na area de compra recorrente do site, focado em pensar e desenvolver novas features para a compra recorrente.<br>
+  Atualização do legado da empresa, features como remover o gulp para webpack, manter bibliotecas atualizadas, remover código inutilizado, refatoração de código
+  antigo, criação de components em VueJS, MarkoJS e Vanilla JS.<br>
+  Implementação e acompanhamento de Testes A/B.<br>
+  Trabalhei na criação do Design System da empresa, feito com Vue.js e Storybook.<br>
+  Trabalhei na criação de uma nova arquitetura no front-end (monorepo) com foco em remover o projeto legado e ter entregas mais rápidas usando novas tecnologias
+  como Vue.js, Vuex e Nuxt.
 
 ## Erro?
 
